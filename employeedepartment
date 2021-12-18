@@ -1,0 +1,20 @@
+[
+  {
+    "empId": 1,
+    "departmentId": 2,
+    "startDate": "2017-01-23",
+    "endDate": "null"
+  },
+  {
+    "empId": 2,
+    "departmentId": 3,
+    "startDate": "2019-01-23",
+    "endDate": "null"
+  },
+  {
+    "empId": 3,
+    "departmentId": 31
+    "startDate": "2020-01-23",
+    "endDate": "null"
+  }
+ ]

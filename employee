@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <empId>1</empId>
+    <empName>John</empName>
+    <address>Washington DC</address>
+    <dateOfBirth>2009-11-23</dateOfBirth>
+    <isActive>1</isActive>
+  </row>
+  <row>
+    <empId>2</empId>
+    <empName>Kevin</empName>
+    <address>South America</address>
+    <dateOfBirth>2009-01-23</dateOfBirth>
+    <isActive>1</isActive>
+  </row>
+  <row>
+  <empId>3</empId>
+    <empName>Mary</empName>
+    <address>Australia</address>
+    <dateOfBirth>2009-02-07</dateOfBirth>
+    <isActive>1</isActive>
+  </row>
+  <row>
+  <empId>4</empId>
+    <empName>Diya</empName>
+    <address>South Africa</address>
+    <dateOfBirth>2009-03-07</dateOfBirth>
+    <isActive>1</isActive>
+  </row>
+ </root>

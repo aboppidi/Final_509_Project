@@ -1,0 +1,17 @@
+[
+  {
+    "empId": 1,
+    "salary": 2600,
+    "financialYear": "2017"
+  },
+  {
+    "empId": 2,
+    "salary": 2000,
+    "financialYear": "2019"
+  },
+  {
+    "empId": 2,
+    "salary": 2300
+    "financialYear": "2020"
+  }
+ ]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <departmentid>1</departmentid>
+    <departmentName>Finance</departmentName>
+    <isActive>1</isActive>
+  </row>
+  <row>
+    <departmentid>2</departmentid>
+    <departmentName>Administration</departmentName>
+    <isActive>1</isActive>
+  </row>
+  <row>
+  <departmentid>3</departmentid>
+    <departmentName>Support Staff</departmentName>
+    <isActive>1</isActive>
+  </row>
+  <row>
+  <departmentid>4</departmentid>
+    <departmentName>Backend</departmentName>
+    <isActive>1</isActive>
+  </row>
+ </root>

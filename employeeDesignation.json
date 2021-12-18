@@ -1,0 +1,20 @@
+[
+  {
+    "empId": 1,
+    "designation": "Manager",
+    "fromDate": "null",
+	"toDate":"null"
+  },
+  {
+    "empId": 2,
+    "designation": "Backend developer",
+    "fromDate": "null",
+	"toDate":"null"
+  },
+  {
+    "empId": 3,
+    "designation": "Admin",
+    "fromDate": "null",
+	"toDate":"null"
+  }
+ ]
